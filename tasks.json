@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "description": "Install node modules",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "description": "Study OOP manipulation",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "description": "Node JS introduction",
+    "completed": true
+  },
+  {
+    "id": 4,
+    "description": "Understand the Node.js runtime and V8 engine",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "description": "Learn how to use require() and module.exports",
+    "completed": false
+  },
+  {
+    "id": 6,
+    "description": "Practice reading and writing files with fs module",
+    "completed": true
+  },
+  {
+    "id": 7,
+    "description": "Create a simple calculator CLI app",
+    "completed": false
+  },
+  {
+    "id": 8,
+    "description": "Use process.argv to handle CLI arguments",
+    "completed": false
+  },
+  {
+    "id": 9,
+    "description": "Build a task manager using file system",
+    "completed": true
+  },
+  {
+    "id": 10,
+    "description": "Learn about global objects",
+    "completed": false
+  },
+  {
+    "id": 1751825965153,
+    "description": "Learn JavaScript",
+    "completed": false
+  }
+]
